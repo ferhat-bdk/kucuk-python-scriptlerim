@@ -6,7 +6,7 @@ acc = {
         "Adı" : "Ferhat",
         "Soyadı" : "Budak",
         "D.T" : "2002",
-        "Mail" : "ferhatbudak075@gmail.com",
+        "Mail" : "ferhatbudak4545@gmail.com",
         "Şifre" : "Abc!23",
         "Bakiye" : 0,
         "EkBakiye" : 0
