@@ -9,7 +9,7 @@ hak1 = hak
 
 x = 0
 
-end = "Oyun Bitti, Harcayacak Hak Kalmadı :))" 
+end = "Oyun Bitti, Harcayacak Hak Kalmadı :)" 
 
 while hak >= 0:
     print(f" Mevcut Hak : {hak} ".center(30,"*"))
